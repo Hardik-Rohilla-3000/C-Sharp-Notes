@@ -1,0 +1,14 @@
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\bin\Debug\net8.0\Basic-C-Sharp.exe
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\bin\Debug\net8.0\Basic-C-Sharp.deps.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\bin\Debug\net8.0\Basic-C-Sharp.runtimeconfig.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\bin\Debug\net8.0\Basic-C-Sharp.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\bin\Debug\net8.0\Basic-C-Sharp.pdb
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.csproj.CoreCompileInputs.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\refint\Basic-C-Sharp.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.pdb
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\Basic-C-Sharp.genruntimeconfig.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Basic-C-Sharp\obj\Debug\net8.0\ref\Basic-C-Sharp.dll
