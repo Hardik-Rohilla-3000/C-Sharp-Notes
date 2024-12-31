@@ -1,0 +1,15 @@
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\bin\Debug\net8.0\Stack,Queue,HashSet,SortedList.exe
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\bin\Debug\net8.0\Stack,Queue,HashSet,SortedList.deps.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\bin\Debug\net8.0\Stack,Queue,HashSet,SortedList.runtimeconfig.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\bin\Debug\net8.0\Stack,Queue,HashSet,SortedList.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\bin\Debug\net8.0\Stack,Queue,HashSet,SortedList.pdb
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.csproj.CoreCompileInputs.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.sourcelink.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\refint\Stack,Queue,HashSet,SortedList.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.pdb
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\Stack,Queue,HashSet,SortedList.genruntimeconfig.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Stack,Queue,HashSet,SortedList\obj\Debug\net8.0\ref\Stack,Queue,HashSet,SortedList.dll

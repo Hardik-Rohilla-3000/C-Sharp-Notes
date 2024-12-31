@@ -52,7 +52,25 @@ class Program
         // numbersList.Remove() removes the element 
         // numbersList.RemoveAt()  removes at specific index
         // numbersList.Contains()   return true or false based on the availability of the element 
-        // numbersList.IndexOf()   same as contains but returns the index of the element  
+        // numbersList.IndexOf()   same as contains but returns the index of the element
+
+        // MultiDimensional array 
+
+        // int[,] numbersArray = new int[5,6]; // Dimensions of 2d array its length will be 5*6=30
+        // // this is how we can access the 2d array
+        // for(int i=0;i<numbersArray.GetLength(0);i++){
+        //     for(int j=0;j<numbersArray.GetLength(1);j++){
+        //         Console.WriteLine(i+", "+j+": "+numbersArray[i,j]);
+        //     }
+        // }
+
+        int[,] numbersArray = new int[,] {{1,2,3},{4,5,6}};  // with this syntax we should have same number of elements in every dimension
+        for(int i=0;i<numbersArray.GetLength(0);i++){
+            for(int j=0;j<numbersArray.GetLength(1);j++){
+                Console.WriteLine(i+", "+j+": "+numbersArray[i,j]);
+            }
+        }
+        Console.ReadKey();
 
 
 

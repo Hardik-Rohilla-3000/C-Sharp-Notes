@@ -1,0 +1,15 @@
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.AssemblyInfoInputs.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.AssemblyInfo.cs
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.csproj.CoreCompileInputs.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.sourcelink.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\bin\Debug\net8.0\Classes Intermediate.exe
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\bin\Debug\net8.0\Classes Intermediate.deps.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\bin\Debug\net8.0\Classes Intermediate.runtimeconfig.json
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\bin\Debug\net8.0\Classes Intermediate.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\bin\Debug\net8.0\Classes Intermediate.pdb
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\refint\Classes Intermediate.dll
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.pdb
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\Classes Intermediate.genruntimeconfig.cache
+C:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Classes Intermediate\obj\Debug\net8.0\ref\Classes Intermediate.dll

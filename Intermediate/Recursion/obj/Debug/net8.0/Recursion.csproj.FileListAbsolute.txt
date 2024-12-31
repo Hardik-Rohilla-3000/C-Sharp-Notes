@@ -1,0 +1,15 @@
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\bin\Debug\net8.0\Recursion.exe
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\bin\Debug\net8.0\Recursion.deps.json
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\bin\Debug\net8.0\Recursion.runtimeconfig.json
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\bin\Debug\net8.0\Recursion.dll
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\bin\Debug\net8.0\Recursion.pdb
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfoInputs.cache
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.AssemblyInfo.cs
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.csproj.CoreCompileInputs.cache
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.sourcelink.json
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.dll
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\refint\Recursion.dll
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.pdb
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\Recursion.genruntimeconfig.cache
+c:\Users\hardi\OneDrive\Desktop\LearningC#\Intermediate\Recursion\obj\Debug\net8.0\ref\Recursion.dll

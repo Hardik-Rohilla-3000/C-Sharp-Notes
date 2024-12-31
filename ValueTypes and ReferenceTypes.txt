@@ -1,0 +1,3 @@
+ValueTypes - int, float, bool, Enum, struct
+
+ReferenceTypes - class, object, array, string
